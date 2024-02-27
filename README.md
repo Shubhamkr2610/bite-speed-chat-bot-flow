@@ -1,5 +1,5 @@
 
-## [BiteSpeed Chatbot Flow Builder](https://bitespeed-chatbot-flow.vercel.app/)
+## [BiteSpeed Chatbot Flow](https://bitespeed-chatbot-flow.vercel.app/)
 Welcome to BiteSpeed's Chatbot Flow Builder! This project is designed to simplify the process of creating chatbot flows using React and TypeScript.
 
 Explore the BiteSpeed Chatbot Flow Builder to discover its intuitive features and functionalities.
